@@ -1,0 +1,12 @@
+FILE *f=fopen("date.in","w");
+    FILE *g=fopen("date.out","w");
+    srand(time(NULL));
+    n =rand() % 20;
+    printf("numarul de perechi %d",n);
+    struct deadline v[n];
+    for (i=0;i<n;i++)
+    {
+        v[i].zile=rand() % (11+1-1)+1;
+        v[i].puncte=rand() % (10+1-2)+2;
+        fprintf(f,"%d %d \n",v[i].zile,v[i].puncte);
+    }

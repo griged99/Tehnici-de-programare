@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554932437 source:e:\code\proiecte\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1559210380 source:e:\code\tema 1\proiecte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

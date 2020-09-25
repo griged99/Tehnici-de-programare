@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557998182 source:e:\code\tema3\maria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

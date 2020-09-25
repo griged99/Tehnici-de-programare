@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557858537 source:e:\code\tema3\pi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
