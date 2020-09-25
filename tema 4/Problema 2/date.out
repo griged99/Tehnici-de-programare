@@ -1,0 +1,14 @@
+Matricea de testare este urmatoarea: 
+ 0  0  0  0 
+ 0  1  0  0 
+ 0  0  0  0 
+ 0  0  1  1 
+
+
+
+
+
+Pionul de pe prima linie poate fi asezat pe pozitia v[0][0] sau v[0][1]
+Pasi pe care ii urmeaza: i=1 j=1 
+Pasi pe care ii urmeaza: i=2 j=0  sau  i=2 j=1 sau  i=2 j=2 sau  i=2 j=3
+Pasi pe care ii urmeaza: i=3 j=2  sau  i=3 j=3
